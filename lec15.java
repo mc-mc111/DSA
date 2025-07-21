@@ -1,4 +1,4 @@
-// Bitwise operators and bit manipulations
+// Bitwise operators and bit manipulations - Completed
 public class lec15 {
     public static void main(String[] args) {
         // Get Bit (know what is the bit at specific index)  num & bitmask
