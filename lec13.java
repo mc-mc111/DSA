@@ -1,4 +1,4 @@
-// String Builder Class - completed
+// String Builder Class - Completed
 public class lec13 {
     public static void main(String[] args) {
         // Reversing a string
