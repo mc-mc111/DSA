@@ -34,7 +34,7 @@ public class lec12 {
             }
         }
         System.out.println("username: "+ username);
-        // Converting for int to to string using parse int and integer class
+        // Converting from int to to string using parse int and integer class
         String number = "111";
         int num = Integer.parseInt(number);
         System.out.println(num+" "+ (num+1)); 
