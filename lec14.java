@@ -1,4 +1,4 @@
-// Operators - completed
+// Operators - Completed
 public class lec14 {
     public static void main(String[] args) {
         int num1 = 10;
