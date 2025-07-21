@@ -1,4 +1,4 @@
-//pattern printing basic -completed
+// pattern printing basic - Completed
 public class lec5 {
     public static void main(String[] args) {        
         int n=4;
