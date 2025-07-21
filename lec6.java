@@ -1,4 +1,4 @@
-//pattern printing advanced -pending
+// pattern printing advanced - Pending
 public class lec6 {
     public static void main(String[] args) {
         int n=4;
