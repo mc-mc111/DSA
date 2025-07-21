@@ -1,5 +1,5 @@
+// Strings - Completed
 import java.util.Scanner;
-
 public class lec12 {
     public static void main(String[] args) {
         //Take an array of Strings input from the user & find the cumulative (combined) length of all those strings.
